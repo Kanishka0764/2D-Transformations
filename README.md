@@ -196,3 +196,12 @@ Computer graphics
 Computer vision (e.g., perspective correction)
 
 Robotics & simulation
+
+
+
+📜 License
+
+This project is open-source and available under the MIT License.
+ 
+
+
