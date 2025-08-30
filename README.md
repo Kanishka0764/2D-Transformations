@@ -19,7 +19,7 @@ The transformations are implemented using *NumPy* and *Matplotlib* for visualiza
 ## 🔹 Mathematical Background
 **Translation Matrix**
 
-![Translation](https://latex.codecogs.com/svg.latex?\bg_white\begin%7Bbmatrix%7Dx%27%5C%5Cy%27%5C%5C1%5Cend%7Bbmatrix%7D=%5Cbegin%7Bbmatrix%7D1&0&t_x%5C%5C0&1&t_y%5C%5C0&0&1%5Cend%7Bbmatrix%7D\begin%7Bbmatrix%7Dx%5C%5Cy%5C%5C1%5Cend%7Bbmatrix%7D)
+![Translation](https://latex.codecogs.com/svg.latex?\begin%7Bbmatrix%7Dx%27%5C%5Cy%27%5C%5C1%5Cend%7Bbmatrix%7D=%5Cbegin%7Bbmatrix%7D1&0&t_x%5C%5C0&1&t_y%5C%5C0&0&1%5Cend%7Bbmatrix%7D\begin%7Bbmatrix%7Dx%5C%5Cy%5C%5C1%5Cend%7Bbmatrix%7D)
 
 
 
